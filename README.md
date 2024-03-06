@@ -1,13 +1,17 @@
-# html-portfolio
-# Udemy Course: The Complete 2024 Web Development Bootcamp
-# Project: Multi Page Websites
-# Project which encompass all the topics so far such as:
-   heading tags: <h1> - <h6>
-   paragraph: <p> </p>
-   void elements: <hr /> <br />
-   list elements: <ul>, <ol>, <li>
-   Nesting and Indentation
-   anchor elements: <a> <a/>
-   image elements: <img />
-   File Paths
-   HTML Boilerplates
+# HTML Portfolio
+
+This repository contains the projects completed during the "The Complete 2024 Web Development Bootcamp" course on Udemy, focusing on multi-page websites.
+
+## Project Overview
+
+This project encompasses all the topics covered in the course so far, including:
+
+- Heading tags: `<h1>` - `<h6>`
+- Paragraphs: `<p>`
+- Void elements: `<hr />`, `<br />`
+- List elements: `<ul>`, `<ol>`, `<li>`
+- Nesting and Indentation
+- Anchor elements: `<a>`
+- Image elements: `<img />`
+- File Paths
+- HTML Boilerplates
